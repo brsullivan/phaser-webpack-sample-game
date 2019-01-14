@@ -1,0 +1,35 @@
+{
+  "resources": [
+    "music-sfx.ogg",
+    "music-sfx.m4a",
+    "music-sfx.mp3",
+    "music-sfx.ac3"
+  ],
+  "spritemap": {
+    "background-1": {
+      "start": 0,
+      "end": 41.1428798185941,
+      "loop": false
+    },
+    "background-2": {
+      "start": 43,
+      "end": 99.10390022675736,
+      "loop": false
+    },
+    "coin": {
+      "start": 101,
+      "end": 101.19013605442177,
+      "loop": false
+    },
+    "jump": {
+      "start": 103,
+      "end": 103.2669387755102,
+      "loop": false
+    },
+    "powerup": {
+      "start": 105,
+      "end": 105.34487528344671,
+      "loop": false
+    }
+  }
+}
